@@ -4,7 +4,7 @@ Required Assignment 5.1.
 
 **Full analysis:** [coupon_analysis.ipynb](coupon_analysis.ipynb)
 
-## The question
+## About the project
 
 A driver gets a coupon on their phone for a business nearby. Will they use it?
 
