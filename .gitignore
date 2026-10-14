@@ -1,0 +1,5 @@
+# Jupyter checkpoint backups
+.ipynb_checkpoints/
+
+# Office temporary lock files
+~$*
